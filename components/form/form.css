@@ -1,0 +1,16 @@
+.form-container {
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 10rem 2rem 4rem 2rem;
+  max-width: 45rem;
+  position: inherit;
+}
